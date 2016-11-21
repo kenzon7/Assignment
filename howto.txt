@@ -1,7 +1,8 @@
-0.	
+0. Do nothing	
 
-1.	
+1. Used a break point and info locals to get the random number 
 
-2. 
+2. Used ltrace -e curl_easy_Perform to to trace the call
 
-3.	
+3. Made a file called "iamspecial". Got the name of the file by using Strace
+
